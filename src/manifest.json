@@ -1,13 +1,17 @@
 {
     "name": "Youtube to mp3",
     "version": "1.0",
-    "description": "Lame youtube to mp3",
+    "description": "Youtube to mp3",
     "permissions": [
         "activeTab", "clipboardRead", "clipboardWrite", "contextMenus", "tabs", "<all_urls>"
     ],
     "background": {
         "scripts": ["background.js"],
         "persistent": false
+    },
+    "icons": {
+        "64": "images/youtube_social_square_red.png"
+
     },
     "browser_action": {},
     "manifest_version": 2
