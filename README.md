@@ -1,1 +1,1 @@
-Click to icon of extention when you on youtube tab to download song fast.
+Click to icon of extension when you on youtube tab to download song fast.
